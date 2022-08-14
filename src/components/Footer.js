@@ -8,7 +8,7 @@ function Footer() {
     <div className="footer">
       <div className="socialMedia">
         <GithubIcon onClick={() => window.open('http://www.github.com/aaron9292')}></GithubIcon>
-        <LinkedInIcon onClick={() => window.open('http://www.linkedin.com/aaron-xu')}></LinkedInIcon>
+        <LinkedInIcon onClick={() => window.open('https://www.linkedin.com/in/aaron-xu/')}></LinkedInIcon>
       </div>
       <p> &copy; 2022 aaronxu.com</p>
     </div>
