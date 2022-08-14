@@ -11,7 +11,7 @@ function Home() {
         <div className="prompt">
           <p>A software developer with a passion for Machine Learning and Artificial Intelligence.</p>
           <GithubIcon onClick={() => window.open('http://www.github.com/aaron9292')}></GithubIcon>
-          <LinkedInIcon onClick={() => window.open('http://www.linkedin.com/aaron-xu')}></LinkedInIcon>
+          <LinkedInIcon onClick={() => window.open('https://www.linkedin.com/in/aaron-xu/')}></LinkedInIcon>
         </div>
       </div>
       <div className="skills">
